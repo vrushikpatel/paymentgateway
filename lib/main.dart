@@ -74,7 +74,7 @@ class _MyAppState extends State<MyApp> {
               print('pressed');
               checkOut();
             },
-            child: Text('pay'),
+            child: Text('click here to pay'),
           ),
         ),
       ),
